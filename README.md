@@ -1,4 +1,8 @@
-# Aleph Alpha Workshop @ tum.ai makeathon
+<p style="text-align:center;">
+<img src="https://makeathon.tum-ai.com/assets/logo.svg" class="center">
+</p>
+
+# Aleph Alpha Workshop @ TUM.ai Makeathon
 
 The code from the demo is in the `tum.ipynb`-file.
 
